@@ -50,16 +50,7 @@ add your ID in config.lua
 add your ID at line 362 in tools.lua
 Then restart the bot.
 
-# Support and development
-
-More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
-
-# Special thanks to
-[@nero_dev](https://telegram.me/nero_dev)
-
-[@K_a_I_i_I_i_n_u_x](https://telegram.me/K_a_I_i_I_i_n_u_x)
-
-[@MrHalix](https://github.com/MrHalix)
+# rHalix](https://github.com/MrHalix)
 
 [@Vysheng](https://github.com/vysheng)
 
